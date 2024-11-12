@@ -9,7 +9,7 @@
 2. [Program Derived Addresses (PDAs)](#program-derived-addresses)
 3. [Core Functions](#core-functions)
 4. [Helper Functions](#helper-functions)
-5. [Events and Vouchers](#events-and-vouchers)
+5. [Events and Vouchers](#events-and-payment-vouchers)
 
 ## Context Definitions
 
