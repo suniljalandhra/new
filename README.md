@@ -44,12 +44,6 @@ nvm use 21.6.2
 # Verify Node.js version
 node --version  # Should output v21.6.2
 
-# If you need to install Yarn
-npm install -g yarn@1.22.22
-
-# Verify Yarn version
-yarn --version  # Should output 1.22.22
-
 ```
 
 ## Setting Up the Project
@@ -62,7 +56,7 @@ cd d3-protocol
 
 ### 2. Install Dependencies
 ```bash
-yarn install
+npm install
 ```
 
 ### 3. Configure Solana Keypairs
